@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://7xiaohui.github.io</id>
     <title>大佛顶首楞严经</title>
-    <updated>2019-11-01T09:24:02.321Z</updated>
+    <updated>2019-11-01T09:50:06.282Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://7xiaohui.github.io"/>
     <link rel="self" href="https://7xiaohui.github.io/atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://7xiaohui.github.io/images/avatar.png</logo>
     <icon>https://7xiaohui.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, 大佛顶首楞严经</rights>
+    <entry>
+        <title type="html"><![CDATA[你好测试]]></title>
+        <id>https://7xiaohui.github.io/post/ni-hao-ce-shi</id>
+        <link href="https://7xiaohui.github.io/post/ni-hao-ce-shi">
+        </link>
+        <updated>2019-11-01T09:26:42.000Z</updated>
+        <content type="html"><![CDATA[<p>测试怎么分类文章</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://7xiaohui.github.io/post/hello-gridea</id>
