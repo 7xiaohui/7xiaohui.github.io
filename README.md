@@ -22,7 +22,7 @@ python -m http.server 8000
 ## 内容
 
 - 论文写作 SOP：https://github.com/7xiaohui/paper-writing-sop
-- 社保知识库 · 工伤保险（已成形，尚未公开）
+- 河南工伤知识库（公开案例）：https://github.com/7xiaohui/henan-gongshang-kb
 
 ## 联系
 
