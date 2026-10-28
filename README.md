@@ -1,5 +1,7 @@
 # 7xiaohui.github.io
 
+作者：红湖先生（GitHub @7xiaohui）
+
 个人主页源码。纯静态 HTML / CSS，无框架、无外链字体、无统计脚本。
 
 ## 结构
