@@ -25,7 +25,7 @@ python -m http.server 8000
 
 - 论文写作 SOP：https://github.com/7xiaohui/paper-writing-sop
 - 河南工伤知识库（公开案例）：https://github.com/7xiaohui/henan-gongshang-kb
-- 红湖职场 · 求职与入职笔记：https://github.com/7xiaohui/honghu-career-notes
+- 红湖职场 · HR 笔记：https://github.com/7xiaohui/honghu-career-notes
 
 ## 联系
 
